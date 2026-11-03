@@ -15,23 +15,23 @@ Bizikleten bigarren eskuko salmenten orria.
 
 # 1. User Profila
 
-Webgunea erabilitako bizikletak edo bizikleta-piezak erosi, bizikleta bat saldu edo bizikleta konpondu nahi duten erabiltzaileentzat izango da. Erabiltzaile-profilak askotarikoak izan daitezke: bizikleta merkeago bat bilatzen duten pertsonak, bizikletaz ibiltzen hasi nahi dutenak, beren bizikleta saldu nahi dutenak edo konponketa egiteko piezak behar dituztenak.
+Webgunea **erabilitako bizikletak edo bizikleta-piezak erosi**, **bizikleta bat saldu** edo **bizikleta konpondu** nahi duten erabiltzaileentzat izango da. Erabiltzaile-profilak askotarikoak izan daitezke: bizikleta merkeago bat bilatzen duten pertsonak, bizikletaz ibiltzen hasi nahi dutenak, beren bizikleta saldu nahi dutenak edo konponketa egiteko piezak behar dituztenak.
 
-Bizikleta erosi nahi dutenek eskuragarri dauden iragarkiak ikusi eta bizikletak ezaugarrien, prezioaren edo motaren arabera bilatu ahal izango dituzte. Saltzaileek bizikletaren informazioa eta argazkiak gehitu ahal izango dituzte iragarkia sortzeko. Konponketa egin nahi duten erabiltzaileek, berriz, aholkuak kontsultatu edo bizikleta-piezak erosi ahal izango dituzte.
+Bizikleta erosi nahi dutenek eskuragarri dauden **iragarkiak ikusi** eta bizikletak ezaugarrien, prezioaren edo motaren arabera bilatu ahal izango dituzte. Saltzaileek bizikletaren informazioa eta argazkiak gehitu ahal izango dituzte **iragarkia sortzeko**. Konponketa egin nahi duten erabiltzaileek, berriz, aholkuak kontsultatu edo bizikleta-piezak erosi ahal izango dituzte.
 
-Webgunea adin eta esperientzia desberdinetako erabiltzaileek erabili ahal izateko diseinatuko da. Horretarako, atalak argi izendatuko dira eta informazioa modu ulergarrian aurkeztuko da.
+Webgunea *adin eta esperientzia desberdinetako erabiltzaileek* erabili ahal izateko diseinatuko da. Horretarako, atalak argi izendatuko dira eta informazioa modu ulergarrian aurkeztuko da.
 
 ---
 
 # 2. Krokisa
 
-Webgunearen krokisek orrien egitura eta erabiltzailearen nabigazioa erakutsiko dituzte. Orri nagusian lau ekintza nagusi nabarmenduko dira: bizikleta erostea, bizikleta saltzea, bizikleta konpontzea eta piezak erostea. Erosketa-saskira sartzeko aukera goiburuan egongo da.
+Webgunearen krokisek **orrien egitura** eta erabiltzailearen **nabigazioa** erakutsiko dituzte. Orri nagusian lau ekintza nagusi nabarmenduko dira: **bizikleta erostea**, **bizikleta saltzea**, **bizikleta konpontzea** eta **piezak erostea**. Erosketa-saskira sartzeko aukera goiburuan egongo da.
 
-“Bizikleta erosi” atalean, bizikleten iragarkiak eta bilaketa-iragazkiak agertuko dira. “Zure bizikleta saldu” atalean, iragarkia sortzeko formularioa egongo da. “Konpondu bizikleta” atalean, konponketari buruzko informazioa eta gidak eskainiko dira. “Bizikleten piezen erosketa” atalean, eskuragarri dauden piezak ikusi eta saskira gehitu ahal izango dira.
+**“Bizikleta erosi”** atalean, bizikleten iragarkiak eta bilaketa-iragazkiak agertuko dira. **“Zure bizikleta saldu”** atalean, iragarkia sortzeko formularioa egongo da. **“Konpondu bizikleta”** atalean, konponketari buruzko informazioa eta gidak eskainiko dira. **“Bizikleten piezen erosketa”** atalean, eskuragarri dauden piezak ikusi eta saskira gehitu ahal izango dira.
 
 ## 2.1 Mugikorra
 
-Mugikorreko diseinuan, atalak menu erraz batean bilduko dira. Orri nagusiko ekintzak botoi edo txartel argien bidez erakutsiko dira, eta produktuak pantailan bata bestearen azpian antolatuko dira. Saskiaren ikonoa erraz aurkitzeko moduan egongo da.
+Mugikorreko diseinuan, atalak **menu erraz** batean bilduko dira. Orri nagusiko ekintzak botoi edo txartel argien bidez erakutsiko dira, eta produktuak pantailan bata bestearen azpian antolatuko dira. **Saskiaren ikonoa** erraz aurkitzeko moduan egongo da.
 
 | Krokisa | Orri nagusia | Bizikleta erosi | Bizikleta saldu | Konpondu bizikleta | Piezen erosketa | Saskia |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -39,7 +39,7 @@ Mugikorreko diseinuan, atalak menu erraz batean bilduko dira. Orri nagusiko ekin
 
 ## 2.2 Ordenagailua
 
-Ordenagailuko bertsioan, goiburuan nabigazio-menua eta saskirako sarbidea egongo dira. Pantaila zabalagoa aprobetxatuz, bizikletak eta piezak hainbat zutabetan erakutsiko dira. Salmentarako formularioa eta konponketa-gidak atal argietan antolatuko dira.
+Ordenagailuko bertsioan, goiburuan **nabigazio-menua** eta **saskirako sarbidea** egongo dira. Pantaila zabalagoa aprobetxatuz, bizikletak eta piezak hainbat zutabetan erakutsiko dira. Salmentarako formularioa eta konponketa-gidak atal argietan antolatuko dira.
 
 | Krokisa | Orri nagusia | Bizikleta erosi | Bizikleta saldu | Konpondu bizikleta | Piezen erosketa | Saskia |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -49,7 +49,7 @@ Ordenagailuko bertsioan, goiburuan nabigazio-menua eta saskirako sarbidea egongo
 
 # 3. Nabigazio Mapa
 
-Orri nagusia webguneko abiapuntua izango da. Goiburuko menuaren bidez, erabiltzaileak atal nagusietara joan ahal izango du:
+Orri nagusia webguneko **abiapuntua** izango da. Goiburuko menuaren bidez, erabiltzaileak atal nagusietara joan ahal izango du:
 
 ```text
 Orri nagusia
@@ -66,11 +66,3 @@ Orri nagusia
 └── Erosketa saskia
     ├── Saskian dauden produktuak
     └── Erosketa amaitu
-```
-
-“Bizikleta erosi” atalean, erabiltzaileak iragarkiak ikusi eta bizikleta baten xehetasunetara sartu ahal izango du. “Zure bizikleta saldu” atalean, saldu nahi duen bizikletaren datuak eta argazkiak gehituko ditu. “Konpondu bizikleta” atalak konponketa-gidak eta informazio erabilgarria bilduko ditu.
-
-Piezen erosketa-atalean, erabiltzaileak produktuak aukeratu eta saskira gehitu ahal izango ditu. Saskian erosketa berrikusi eta amaitzeko aukera egongo da.
-
-> **Oharra:** Erosketa-saskia bizikleta-piezen erosketarako erabiliko da. Erabilitako bizikleten iragarkietan, saltzailearekin harremanetan jartzeko aukera eskainiko da.
-```
