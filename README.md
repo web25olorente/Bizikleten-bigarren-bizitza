@@ -1,5 +1,5 @@
 # Bizikleten-bigarren-bizitza
-Bizikleten bigarren eskuko salmenten orria.
+*Erabilitako bizikletak erosi eta saltzeko, bizikletak konpontzeko eta bizikleten piezak erosteko webgunea.*
 
 ---
 
