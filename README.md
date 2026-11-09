@@ -39,7 +39,7 @@ Ordenagailuko bertsioan, goiburuan **nabigazio-menua** eta **saskirako sarbidea*
 
 | Krokisa | Orri nagusia | Bizikleta erosi | Bizikleta saldu | Konpondu bizikleta | Piezen erosketa | Saskia |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Diseinua:** | *[Gehitu krokisa]* | *[Gehitu krokisa]* | *[Gehitu krokisa]* | *[Gehitu krokisa]* | *[Gehitu krokisa]* | *[Gehitu krokisa]* |
+| **Diseinua:** | ![Orri nagusia](Krokisa/OrriNagusia.png) | ![Bizikleta erosi](Krokisa/BizikletaErosi.png) | ![Bizikleta saldu](Krokisa/ZureBizikletaSaldu.png) | ![Konpondu bizikleta](Krokisa/KonponduZureBizikleta.png) | ![Piezak erosi](Krokisa/BizikletenPiezak.png) | ![Saskia](Krokisa/ErosketaSaskia.png) |
 
 ---
 
