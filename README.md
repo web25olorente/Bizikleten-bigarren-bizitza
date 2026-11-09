@@ -33,17 +33,13 @@ Webgunearen krokisek **orrien egitura** eta erabiltzailearen **nabigazioa** erak
 
 Mugikorreko diseinuan, atalak **menu erraz** batean bilduko dira. Orri nagusiko ekintzak botoi edo txartel argien bidez erakutsiko dira, eta produktuak pantailan bata bestearen azpian antolatuko dira. **Saskiaren ikonoa** erraz aurkitzeko moduan egongo da.
 
-| Krokisa | Orri nagusia | Bizikleta erosi | Bizikleta saldu | Konpondu bizikleta | Piezen erosketa | Saskia |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **📱 Mugikorra** | *[Gehitu krokisa]* | *[Gehitu krokisa]* | *[Gehitu krokisa]* | *[Gehitu krokisa]* | *[Gehitu krokisa]* | *[Gehitu krokisa]* |
-
 ## 2.2 Ordenagailua
 
 Ordenagailuko bertsioan, goiburuan **nabigazio-menua** eta **saskirako sarbidea** egongo dira. Pantaila zabalagoa aprobetxatuz, bizikletak eta piezak hainbat zutabetan erakutsiko dira. Salmentarako formularioa eta konponketa-gidak atal argietan antolatuko dira.
 
 | Krokisa | Orri nagusia | Bizikleta erosi | Bizikleta saldu | Konpondu bizikleta | Piezen erosketa | Saskia |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **💻 Ordenagailua** | *[Gehitu krokisa]* | *[Gehitu krokisa]* | *[Gehitu krokisa]* | *[Gehitu krokisa]* | *[Gehitu krokisa]* | *[Gehitu krokisa]* |
+| **Diseinua:** | *[Gehitu krokisa]* | *[Gehitu krokisa]* | *[Gehitu krokisa]* | *[Gehitu krokisa]* | *[Gehitu krokisa]* | *[Gehitu krokisa]* |
 
 ---
 
