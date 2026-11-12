@@ -10,6 +10,9 @@
   * [2.1 Mugikorra](#21-mugikorra)
   * [2.2 Ordenagailua](#22-ordenagailua)
 * [3. Nabigazio Mapa](#3-nabigazio-mapa)
+* [4. Estilo Gida](#)
+  * [4.1 Koloreak, tipografia, ze transmititu koloreak, botoiak tamaina kolore eta erabilera, irudiak tamaina kolorek erabilera, ikonoak](Koloreak)
+  * Erabilgarritasuna: 10 printzipioetatik zeintzuk kontuan hartu ditut, informazioa nun kokatu dudan (F / Z patroiak), 
 
 ---
 
