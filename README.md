@@ -82,6 +82,12 @@ Pentsatu diren koloreak dira **txuria** nagusiki, web orriaren itxura nagusia iz
 **Beltza** erabiliko da textu eta letra gehienetan. Zuriarekin kontraste absolutoa egingo du web orrian irakurketa aldetik arazorik gabe egin ahal izateko. Baita ere Header enan erabiltzea pentsatu da web orriaren edukiengan kontraste egiteko.
 **Zuri-grisdun** bat erabiliko da footer-en botoiendako. Erabiltzaileari koloreekin ez saturatzeko, kontraste ligero bat egingo du orriko txuriko fondoarekin.
 
+| Orriko koloreak | Zuria | Berdea | Beltza | Grisa | Gorria |
+| :--- | :---: | :---: | :---: | :---: | :--: |
+| **Letra:** | #ffffff | #14e61c | #252f26 | #e5e5e5 | #ff2323 |
+
+> Gorria zakarrontziko ikonoan erabiliko da.
+
 ## 4.2 Tipografia:
 > Ze letra konkretuki, zertarako
 
