@@ -68,7 +68,7 @@ Orri nagusia
 └── Erosketa saskia
     ├── Saskian dauden produktuak
     └── Erosketa amaitu
-````
+```
 ---
 
 # 4. Estilo Gida
