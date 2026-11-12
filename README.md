@@ -87,5 +87,7 @@ Orri nagusia
 ## 4.5 Ikonoak
 >
 
+---
+
 # 5. Erabilgarritasuna
 > 10 printzipioetatik zeintzuk kontuan hartu ditut, informazioa nun kokatu dudan (F / Z patroiak).
