@@ -96,11 +96,12 @@ Botoi garrantsitzuenak edo erabiltzaileek erraz identifikatu behar duten botoiak
 ## 4.4 Irudiak
 > Tamaina, kolore eta erabilera
 
-Irudiaren tamainak 
+Irudiak div edo card elementuen barruan egongo dira. Honek eukiko dituen tamaina aldatuko da pantailaren arabera. Responsive orri baten bilakaeran, konturatu gara elementuen tamainak ondo kontrolatzea garrantsitsua dela. Beraz, irudiak ez dituzte eukiko tamaina finko bat. Orduan, irudiak tamaino maximo edo minimo bat edukiko bai dute, edozein pantailan automatikoki ajustatuko dira. Irudiak, nagusiki, produktuen errepresentazino grafiko bat izango dira. Hau da, erabiltzaileak irudian ikusten duena da saltzen den produktu bera. Beraz, tamaina on bat izan beharko du, produktua detaile onetan ikusteko kolore garbiak nun kontraste onak egin beharko ditu web orriko koloreekin, eta haien erabilera produktua erakustea izango da. 
 
 ## 4.5 Ikonoak
 > Tamaina, kolore eta erabilera
 
+Web orriak botoiez gain, ikur edo ikono batzuk izango ditu. Saskiaren atalari nagusiki dedikatuko zaio euren erabilera. Saskian produktuak gordetzeko, adibidez. 
 
 ---
 
