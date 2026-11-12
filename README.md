@@ -85,7 +85,7 @@ Orri nagusia
 > Tamaina, kolore eta erabilera
 
 ## 4.5 Ikonoak
->
+> Tamaina, kolore eta erabilera
 
 ---
 
