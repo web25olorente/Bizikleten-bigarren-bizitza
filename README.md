@@ -109,6 +109,11 @@ Web orriak botoiez gain, ikur edo ikono gutxi batzuk izango ditu. Saskiaren atal
 > 10 printzipioetatik zeintzuk kontuan hartu ditut, informazioa nun kokatu dudan (F / Z patroiak).
 
 
-10 printzipioak barne eukitzea bururatu zaigu, baina, azkenean haietik kontuan izan ditugun printzipioak hauek dira:
+10 printzipioak barne eukitzea bururatu zaigu, baina, azkenean haietik garrantsia edo gehien kontuan izan ditugun printzipioak hauek dira:
+**Sistemaren eta mundu errealaren arteko lotura** eta **Koherentzia eta estandarrak.** Erabiltzaileei esperientzia erraztu nahi diogu, orrien erabilera erraza eta lagungarria izateaz gain, gauzak ondo esplikatuta egongo dira, hizkuntza erraza erabiliko da eta zaiatuko gara publiko guztiek bizikleten inguruko gauzak ulertzea arazorik gabe.
+**Erabilera-malgutasuna eta efizientzia.** erabiltzaileari esperientza on bat sortu nahi diogu, horretarako, erabiltzaile ez-esperimentatuei gauzak erraztu behar diegu ahalik eta gehien. Lasterbide lagungarriak eta implementatzea pentsatu da.
+**Estetika eta diseinu minimalista.** Web orria estetika eta diseinua sainduko du. Soberan dauden gauzak inplementatzea murriztuko da ahalik eta gehien.
 
 Informazioa ondo sakabanatu nahi izan dugu pantaila guztietan. Pantailak dituen pixel guztiak aprobetzatu nahian. Z patroian oinarritu gara, erabiltzaileak begiradada egiterakoan, ez zentratzeko bakarrik web orriko goiko aldean soilik.
+
+Laburbilduz, web orri bat erraza erabiltzeko, publiko guztiengan pentsatuz, itxura argia eta garbia duena. Edukia ondo sakabanatuta duena eta esperientzia desatzegina ahalik eta gehien saihesten duena.
