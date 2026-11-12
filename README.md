@@ -75,6 +75,7 @@ Orri nagusia
 # 4. Estilo Gida
 ## 4.1 Koloreak:
 > Ze transmititu nahi dut koloreekin.
+Pentsatu diren koloreak dira txuria nagusiki, berde argidun bat izenburuetarako eta botoi nagusietarako ere, beltza, footer 
 
 ## 4.2 Tipografia:
 > Ze letra konkretuki, zertarako
@@ -82,7 +83,7 @@ Erabili nahi den tipografiamota, **biribildun letrak** duen tipografia bat da. B
 
 ## 4.3 Botoiak
 > Tamaina, kolore eta erabilera
-Botoi
+Botoien tamainak nagusiki, handiak izatea pentsatu da. Erabiltzaileei errazaztasuna emateko ahalik eta askarren identifikatzeko botoi desberdinak. Gainera, adin gehien dituen pertsonek edo bista galtzen hari duten pertsonek, edo betaurrekoak erabili behar duten pertsonetan pentsatuz, hauek asko eskertuko dituzte horrelako tamainak erabiltzea. Botoi bakoitzaren erabileraren arabera, botoiak kolore bat edo beste bat edukiko dute.
 
 ## 4.4 Irudiak
 > Tamaina, kolore eta erabilera
