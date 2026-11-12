@@ -75,7 +75,7 @@ Orri nagusia
 # 4. Estilo Gida
 ## 4.1 Koloreak:
 > Ze transmititu nahi dut koloreekin.
-Pentsatu diren koloreak dira txuria nagusiki, berde argidun bat izenburuetarako eta botoi nagusietarako ere, beltza, footer 
+Pentsatu diren koloreak dira txuria nagusiki, berde argidun bat izenburuetarako eta botoi nagusietarako ere, beltza header -endako, txuri-grisdun bat footer-en botoiendako.
 
 ## 4.2 Tipografia:
 > Ze letra konkretuki, zertarako
