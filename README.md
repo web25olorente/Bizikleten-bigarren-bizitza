@@ -85,9 +85,11 @@ Pentsatu diren koloreak dira **txuria** nagusiki, web orriaren itxura nagusia iz
 ## 4.2 Tipografia:
 > Ze letra konkretuki, zertarako
 
-| Tipografia | Baloo | Open Sans | Coiny | Fredoka One |
+| Tipografia | Open Sans | Baloo | Coiny | Fredoka One |
 | :--- | :---: | :---: | :---: | :---: |
-| **Letra:** | Orriko  | Web orriko azalpenetan, edo esplikazio xehatuetan erabiliko da. |
+| **Letra:** | Web orriko azalpenetan, edo esplikazio xehatuetan erabiliko da.  | Soilik orriko botoietako testuetan erabiliko da. | Izenburuetan soilik erabiliko da tipografia hau. | Goiburuetan bakarrik erabiliko da. |
+
+
 Erabili nahi den tipografiamota, **biribildun letrak** duen tipografia bat da. Bizikleten gurpilak biratzen dutelako, pentsatu dugu bizikletan eta gurpilak zirkulu formako mugimendu konstante bat egiten dutenez, tematika hori implementatu nahi da gure web orrian. Bizikletako tematika eukitzeaz gain, biribildun letrak nahiko modan edo asko erabiltzen den tipografiak dira. Zeriotasuna kentzen dio web orriari, web orriari lagunkoia sentzazinora bideratu nahi da, eta noski, itxura aldetik bikain komplementatzen da.
 
 ## 4.3 Botoiak
