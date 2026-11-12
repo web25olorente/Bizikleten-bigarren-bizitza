@@ -10,9 +10,12 @@
   * [2.1 Mugikorra](#21-mugikorra)
   * [2.2 Ordenagailua](#22-ordenagailua)
 * [3. Nabigazio Mapa](#3-nabigazio-mapa)
-* [4. Estilo Gida](#)
-  * [4.1 Koloreak, tipografia (ze letra konkretuki, zertarako), ze transmititu koloreak, botoiak tamaina kolore eta erabilera, irudiak tamaina kolorek erabilera, ikonoak](Koloreak)
-  * Erabilgarritasuna: 10 printzipioetatik zeintzuk kontuan hartu ditut, informazioa nun kokatu dudan (F / Z patroiak), 
+* [4. Estilo Gida](#4-estilo-gida)
+  * [4.1 Koloreak](#41-koloreak)
+  * [4.2 Tipografia](#42-tipografia)
+  * [4.3 Botoiak](#43-botoiak)
+  * [4.4 Irudiak](#44-irudiak)
+* [5. Erabilgarritasuna](#5-erabilgarritasuna)
 
 ---
 
@@ -65,3 +68,24 @@ Orri nagusia
 └── Erosketa saskia
     ├── Saskian dauden produktuak
     └── Erosketa amaitu
+
+---
+
+# 4. Estilo Gida
+## 4.1 Koloreak:
+> Ze transmititu nahi dut koloreekin.
+
+## 4.2 Tipografia:
+> Ze letra konkretuki, zertarako
+
+## 4.3 Botoiak
+> Tamaina, kolore eta erabilera
+
+## 4.4 Irudiak
+> Tamaina, kolore eta erabilera
+
+## 4.5 Ikonoak
+>
+
+# 5. Erabilgarritasuna
+> 10 printzipioetatik zeintzuk kontuan hartu ditut, informazioa nun kokatu dudan (F / Z patroiak).
