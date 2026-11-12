@@ -75,21 +75,26 @@ Orri nagusia
 # 4. Estilo Gida
 ## 4.1 Koloreak:
 > Ze transmititu nahi dut koloreekin.
+
 Pentsatu diren koloreak dira txuria nagusiki, berde argidun bat izenburuetarako eta botoi nagusietarako ere, beltza header -endako, txuri-grisdun bat footer-en botoiendako.
 
 ## 4.2 Tipografia:
 > Ze letra konkretuki, zertarako
+
 Erabili nahi den tipografiamota, **biribildun letrak** duen tipografia bat da. Bizikleten gurpilak biratzen dutelako, pentsatu dugu bizikletan eta gurpilak zirkulu formako mugimendu konstante bat egiten dutenez, tematika hori implementatu nahi da gure web orrian. Bizikletako tematika eukitzeaz gain, biribildun letrak nahiko modan edo asko erabiltzen den tipografiak dira. Zeriotasuna kentzen dio web orriari, web orriari lagunkoia sentzazinora bideratu nahi da, eta noski, itxura aldetik bikain komplementatzen da.
 
 ## 4.3 Botoiak
 > Tamaina, kolore eta erabilera
+
 Botoien tamainak nagusiki, handiak izatea pentsatu da. Erabiltzaileei errazaztasuna emateko ahalik eta askarren identifikatzeko botoi desberdinak. Gainera, adin gehien dituen pertsonek edo bista galtzen hari duten pertsonek, edo betaurrekoak erabili behar duten pertsonetan pentsatuz, hauek asko eskertuko dituzte horrelako tamainak erabiltzea. Botoi bakoitzaren erabileraren arabera, botoiak kolore bat edo beste bat edukiko dute.
 
 ## 4.4 Irudiak
 > Tamaina, kolore eta erabilera
 
+
 ## 4.5 Ikonoak
 > Tamaina, kolore eta erabilera
+
 
 ---
 
