@@ -78,9 +78,11 @@ Orri nagusia
 
 ## 4.2 Tipografia:
 > Ze letra konkretuki, zertarako
+Erabili nahi den tipografiamota, **biribildun letrak** duen tipografia bat da. Bizikleten gurpilak biratzen dutelako, pentsatu dugu bizikletan eta gurpilak zirkulu formako mugimendu konstante bat egiten dutenez, tematika hori implementatu nahi da gure web orrian. Bizikletako tematika eukitzeaz gain, biribildun letrak nahiko modan edo asko erabiltzen den tipografiak dira. Zeriotasuna kentzen dio web orriari, web orriari lagunkoia sentzazinora bideratu nahi da, eta noski, itxura aldetik bikain komplementatzen da.
 
 ## 4.3 Botoiak
 > Tamaina, kolore eta erabilera
+Botoi
 
 ## 4.4 Irudiak
 > Tamaina, kolore eta erabilera
