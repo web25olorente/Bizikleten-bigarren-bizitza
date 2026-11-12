@@ -107,3 +107,6 @@ Web orriak botoiez gain, ikur edo ikono gutxi batzuk izango ditu. Saskiaren atal
 
 # 5. Erabilgarritasuna
 > 10 printzipioetatik zeintzuk kontuan hartu ditut, informazioa nun kokatu dudan (F / Z patroiak).
+
+
+Informazioa ondo sakabanatu nahi izan dugu pantaila guztietan. Pantailak dituen pixel guztiak aprobetzatu nahian. Z patroian oinarritu gara, erabiltzaileak begiradada egiterakoan, ez zentratzeko bakarrik web orriko goiko aldean soilik.
