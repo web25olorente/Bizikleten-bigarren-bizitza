@@ -101,7 +101,7 @@ Irudiak div edo card elementuen barruan egongo dira. Honek eukiko dituen tamaina
 ## 4.5 Ikonoak
 > Tamaina, kolore eta erabilera
 
-Web orriak botoiez gain, ikur edo ikono batzuk izango ditu. Saskiaren atalari nagusiki dedikatuko zaio euren erabilera. Saskian produktuak gordetzeko edo ezabatzeko, produktu adibidez. 
+Web orriak botoiez gain, ikur edo ikono gutxi batzuk izango ditu. Saskiaren atalari nagusiki dedikatuko zaio euren erabilera. Produktuak gordetzeko edo ezabatzeko, edo sazki zesta atalara juteko implementatuko dira ikurrak. Ikur garbi, sinple eta tamaina modestoak izango dituzte.  
 
 ---
 
