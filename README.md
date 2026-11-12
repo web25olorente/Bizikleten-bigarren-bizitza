@@ -76,7 +76,10 @@ Orri nagusia
 ## 4.1 Koloreak:
 > Ze transmititu nahi dut koloreekin.
 
-Pentsatu diren koloreak dira txuria nagusiki, berde argidun bat izenburuetarako eta botoi nagusietarako ere, beltza header -endako, txuri-grisdun bat footer-en botoiendako.
+Pentsatu diren koloreak dira **txuria** nagusiki, web orriaren itxura nagusia izango da zuri kolorea, garbitasuna transmitituko duen kolore honetan pentsatu dugu orria argia eta garbia izateko. Botoi berdeetan txuri kolorezko letrak egongo dira.
+
+**Berdea** orrien izenburuetarako, botoi nagusietarako ere, eta ikono batzuetarako baita ere. Berdea naturaren kolorea errepresentatuko du, aldi berean kolore modernoa da gaur egun. Txuriarekin nahiko ondo geratzen da.
+**Beltza** erabiliko da textu eta `letra` gehienetan. Zuriarekin kontraste absolutoa egingo du web orrian irakurketa aldetik arazorik gabe egin ahal izateko. Baita ere Header enan erabiltzea pentsatu da web orriaren edukiengan kontraste egiteko. txuri-grisdun bat footer-en botoiendako.
 
 ## 4.2 Tipografia:
 > Ze letra konkretuki, zertarako
