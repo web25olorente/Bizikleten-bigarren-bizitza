@@ -88,6 +88,8 @@ Pentsatu diren koloreak dira **txuria** nagusiki, web orriaren itxura nagusia iz
 
 > Gorria zakarrontziko ikonoan erabiliko da.
 
+![Koloreak](Irudiak/Koloreak.png)
+
 ## 4.2 Tipografia:
 > Ze letra konkretuki, zertarako
 
