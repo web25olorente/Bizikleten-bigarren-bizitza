@@ -15,6 +15,7 @@
   * [4.2 Tipografia](#42-tipografia)
   * [4.3 Botoiak](#43-botoiak)
   * [4.4 Irudiak](#44-irudiak)
+  * [4.5 Ikonoak](#45-ikonoak) 
 * [5. Erabilgarritasuna](#5-erabilgarritasuna)
 
 ---
