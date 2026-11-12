@@ -79,7 +79,8 @@ Orri nagusia
 Pentsatu diren koloreak dira **txuria** nagusiki, web orriaren itxura nagusia izango da zuri kolorea, garbitasuna transmitituko duen kolore honetan pentsatu dugu orria argia eta garbia izateko. Botoi berdeetan txuri kolorezko letrak egongo dira.
 
 **Berdea** orrien izenburuetarako, botoi nagusietarako ere, eta ikono batzuetarako baita ere. Berdea naturaren kolorea errepresentatuko du, aldi berean kolore modernoa da gaur egun. Txuriarekin nahiko ondo geratzen da.
-**Beltza** erabiliko da textu eta `letra` gehienetan. Zuriarekin kontraste absolutoa egingo du web orrian irakurketa aldetik arazorik gabe egin ahal izateko. Baita ere Header enan erabiltzea pentsatu da web orriaren edukiengan kontraste egiteko. txuri-grisdun bat footer-en botoiendako.
+**Beltza** erabiliko da textu eta letra gehienetan. Zuriarekin kontraste absolutoa egingo du web orrian irakurketa aldetik arazorik gabe egin ahal izateko. Baita ere Header enan erabiltzea pentsatu da web orriaren edukiengan kontraste egiteko.
+**Zuri-grisdun** bat erabiliko da footer-en botoiendako. Erabiltzaileari koloreekin ez saturatzeko, kontraste ligero bat egingo du orriko txuriko fondoarekin.
 
 ## 4.2 Tipografia:
 > Ze letra konkretuki, zertarako
@@ -90,10 +91,12 @@ Erabili nahi den tipografiamota, **biribildun letrak** duen tipografia bat da. B
 > Tamaina, kolore eta erabilera
 
 Botoien tamainak nagusiki, handiak izatea pentsatu da. Erabiltzaileei errazaztasuna emateko ahalik eta askarren identifikatzeko botoi desberdinak. Gainera, adin gehien dituen pertsonek edo bista galtzen hari duten pertsonek, edo betaurrekoak erabili behar duten pertsonetan pentsatuz, hauek asko eskertuko dituzte horrelako tamainak erabiltzea. Botoi bakoitzaren erabileraren arabera, botoiak kolore bat edo beste bat edukiko dute.
+Botoi garrantsitzuenak edo erabiltzaileek erraz identifikatu behar duten botoiak, berde kolorezkoak izango dira letra txuriekin. Orriko estiloa jarraitu dezan, kontraste bikain bat egingo du. Botoien erabilera beste orrietara juteko, edukien informazio gehiago ikusi ahal izateko edo produktuak erosteko edo saltzeko erabiliko dira. Orrian garrantzia asko izango dute, erabiltzaileek web orri erraz bat erabiltzea nahi delako.
 
 ## 4.4 Irudiak
 > Tamaina, kolore eta erabilera
 
+Irudiaren tamainak 
 
 ## 4.5 Ikonoak
 > Tamaina, kolore eta erabilera
