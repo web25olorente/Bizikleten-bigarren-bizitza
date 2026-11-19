@@ -133,6 +133,9 @@ Informazioa ondo sakabanatu nahi izan dugu pantaila guztietan. Pantailak dituen 
 
 
 
+[Prototipoa](https://www.figma.com/make/31fl2hlfy0UBgvQaXLESmK/Bootstrap-and-Verify-Deploy?t=tQjL9iDLbN2NGLbV-0&preview-route=%2Fpiezak)
+
+
 [Prototipoa](!https://www.figma.com/make/31fl2hlfy0UBgvQaXLESmK/Bootstrap-and-Verify-Deploy?t=tQjL9iDLbN2NGLbV-0&preview-route=%2Fpiezak)
 
 Laburbilduz, web orri bat erraza erabiltzeko, publiko guztiengan pentsatuz, itxura argia eta garbia duena. Edukia ondo sakabanatuta duena eta esperientzia desatzegina ahalik eta gehien saihesten duena.
