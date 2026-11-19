@@ -131,4 +131,8 @@ Web orriak botoiez gain, ikur edo ikono gutxi batzuk izango ditu. Saskiaren atal
 
 Informazioa ondo sakabanatu nahi izan dugu pantaila guztietan. Pantailak dituen pixel guztiak aprobetzatu nahian. Z patroian oinarritu gara, erabiltzaileak begiradada egiterakoan, ez zentratzeko bakarrik web orriko goiko aldean soilik.
 
+
+
+[Prototipoa](!https://www.figma.com/make/31fl2hlfy0UBgvQaXLESmK/Bootstrap-and-Verify-Deploy?t=tQjL9iDLbN2NGLbV-0&preview-route=%2Fpiezak)
+
 Laburbilduz, web orri bat erraza erabiltzeko, publiko guztiengan pentsatuz, itxura argia eta garbia duena. Edukia ondo sakabanatuta duena eta esperientzia desatzegina ahalik eta gehien saihesten duena.
