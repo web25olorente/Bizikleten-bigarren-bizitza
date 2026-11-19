@@ -136,3 +136,4 @@ Laburbilduz, web orri bat erraza erabiltzeko, publiko guztiengan pentsatuz, itxu
 
 # 6. Prototipoa:
 [Prototipoa](https://www.figma.com/make/31fl2hlfy0UBgvQaXLESmK/Bootstrap-and-Verify-Deploy?t=tQjL9iDLbN2NGLbV-0&preview-route=%2Fpiezak)
+[2](https://www.figma.com/make/31fl2hlfy0UBgvQaXLESmK/Bootstrap-and-Verify-Deploy?code-node-id=0-6&p=f&t=G2fTwhdhu0j47bP1-0&fullscreen=1)
